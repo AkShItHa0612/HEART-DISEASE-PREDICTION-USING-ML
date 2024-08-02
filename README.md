@@ -1,5 +1,3 @@
-Sure, here is a README file for your heart disease prediction project using machine learning:
-
 ---
 
 # Heart Disease Prediction
